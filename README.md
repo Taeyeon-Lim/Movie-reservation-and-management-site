@@ -1,4 +1,4 @@
-# Movie-reservation-and-management-site(NodeJS)
+# 영화 예약 및 관리 시스템(NodeJS)
 <br/><br/><br/>
 <br/><img src="https://user-images.githubusercontent.com/54977412/134349122-fb17a661-52c8-4a26-9c65-248a6eec572a.png">
 <br/><hr/>
